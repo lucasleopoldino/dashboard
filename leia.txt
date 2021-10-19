@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=4WvT2cmuZ5M
+parou nos: 23:36
+
+link css online
+<link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+
